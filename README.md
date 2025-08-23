@@ -34,13 +34,13 @@ gcc Catch_the_Thief.c -o Catch_the_Thief
 ---
 ## 📚Concepts Used
 
-Graphs & adjacency lists.
-Randomized movement.
-Turn-based game loop.
+- Graphs & adjacency lists.
+- Randomized movement.
+- Turn-based game loop.
 
 ---
 ## 🔮 Future Ideas
 
-Add GUI version.
-Smarter thief AI.
-Multiple levels.
+- Add GUI version.
+- Smarter thief AI.
+- Multiple levels.

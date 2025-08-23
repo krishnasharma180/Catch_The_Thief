@@ -28,18 +28,19 @@ The board is represented using **graphs and adjacency lists**, making it a fun p
 ## 🛠️ Run the Game
 
 gcc Catch_the_Thief.c -o Catch_the_Thief
-./catch_the_thief
+./Catch_the_Thief
+
 
 ---
 ## 📚Concepts Used
 
-Graphs & adjacency lists
-Randomized movement
-Turn-based game loop
-ASCII board visualization
+Graphs & adjacency lists.
+Randomized movement.
+Turn-based game loop.
+
 ---
 ## 🔮 Future Ideas
 
-Add GUI version
-Smarter thief AI
-Multiple levels
+Add GUI version.
+Smarter thief AI.
+Multiple levels.

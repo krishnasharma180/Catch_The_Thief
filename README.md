@@ -24,8 +24,15 @@ The board is represented using **graphs and adjacency lists**, making it a fun p
 | z   | Bottom-Left  |
 
 ---
-## Example Images
-- ![Gameplay Screenshot]("C:\Users\Krishna\Pictures\Screenshots\Screenshot 2025-09-14 125727.png")
+## 📸 Screenshots
+
+![Gameplay Start](images/start.png)
+
+![Police Moving](images/police-move.png)
+
+![Thief Taunt](images/thief-taunt.gif)
+
+![Police Roast](images/trapped.png)
 
 
 ---
@@ -35,9 +42,16 @@ The board is represented using **graphs and adjacency lists**, making it a fun p
 ### Linux / macOS
 ```bash
 git clone https://github.com/krishnasharma180/Catch_The_Thief.git
-cd CTT
-gcc -o Catch_the_Thief.c
-./ga
+cd Catch_The_Thief
+gcc -o game Catch_the_Thief.c
+./game
+```
+### On Windows
+```bash
+cd Catch_The_Thief
+gcc -o game.exe Catch_the_Thief.c
+.\game.exe
+
 ```
 ---
 ## 📚Concepts Used
@@ -54,5 +68,5 @@ gcc -o Catch_the_Thief.c
 - Multiple levels.
 
 ---
-## Licence
+## 📜 License
 - MIT License. Do whatever you like with it.

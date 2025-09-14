@@ -40,12 +40,12 @@ Player selects a police officer and moves it using direction keys.
 
 ### 3. Thief Taunt  
 Thief finds an escape and mocks the player.  
-![Thief Taunt](images/thief-taunt.gif)  
+![Thief Taunt](images/thief-taunt.png)  
 
 ---
 
-### 4. Police Roast  
-Police roast the thief after it wastes a chance to escape.  
+### 4. Police Win  
+Police wins the game  
 ![Police Roast](images/trapped.png)  
 
 

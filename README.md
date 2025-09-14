@@ -26,13 +26,27 @@ The board is represented using **graphs and adjacency lists**, making it a fun p
 ---
 ## 📸 Screenshots
 
-![Gameplay Start](images/start.png)
+### 1. Gameplay Start  
+Initial setup: 3 police (A, B, C) vs the thief (T).  
+![Gameplay Start](images/start.png)  
 
-![Police Moving](images/police-move.png)
+---
 
-![Thief Taunt](images/thief-taunt.gif)
+### 2. Police Moving  
+Player selects a police officer and moves it using direction keys.  
+![Police Moving](images/police-move.png)  
 
-![Police Roast](images/trapped.png)
+---
+
+### 3. Thief Taunt  
+Thief finds an escape and mocks the player.  
+![Thief Taunt](images/thief-taunt.gif)  
+
+---
+
+### 4. Police Roast  
+Police roast the thief after it wastes a chance to escape.  
+![Police Roast](images/trapped.png)  
 
 
 ---

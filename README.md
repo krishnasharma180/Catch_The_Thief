@@ -24,13 +24,21 @@ The board is represented using **graphs and adjacency lists**, making it a fun p
 | z   | Bottom-Left  |
 
 ---
-
-## 🛠️ Run the Game
-
-gcc Catch_the_Thief.c -o Catch_the_Thief
-./Catch_the_Thief
+## Example Images
+- ![Gameplay Screenshot]("C:\Users\Krishna\Pictures\Screenshots\Screenshot 2025-09-14 125727.png")
 
 
+---
+
+## 🚀 How to Build & Run
+
+### Linux / macOS
+```bash
+git clone https://github.com/krishnasharma180/Catch_The_Thief.git
+cd CTT
+gcc -o Catch_the_Thief.c
+./ga
+```
 ---
 ## 📚Concepts Used
 
@@ -44,3 +52,7 @@ gcc Catch_the_Thief.c -o Catch_the_Thief
 - Add GUI version.
 - Smarter thief AI.
 - Multiple levels.
+
+---
+## Licence
+- MIT License. Do whatever you like with it.
